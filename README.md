@@ -1,10 +1,11 @@
 # PwdManager
-A simple password manager using python and cryptocode module
+A simple password manager using python alongside cryptocode and pwinput modules
 
 > [!CAUTION]
 > This is a password manager made for educational purpose. This password manager does encrypt and decrypt, but is not audited regularly and lacks many security features as mentioned below. For a reliable password manager consider using regularly audited password managers like [bitwarden](https://bitwarden.com/) or [keepass](https://keepassxc.org/)
 
 # Features
+* Secure password input using pwinput module
 * Flexible CLI based password manager
 * Encrypts and Decrypts thanks to cryptocode
 * Multi-User Password managing capability
